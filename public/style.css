@@ -1,0 +1,28 @@
+img {
+    width: 1500px;
+}
+
+#bg1 {
+    background-color: grey;
+    position: relative;
+	max-width: 1500px;
+}
+
+#bg2 {
+    background-color: orange;
+}
+
+#bg3 {
+    background-color: purple;
+}
+
+#bg4 {
+    background-color: paleturquoise;
+}
+
+#titleName {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
